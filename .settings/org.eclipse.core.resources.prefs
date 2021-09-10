@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebContent/views/showprod.jsp=UTF-8
+encoding//src/com/service/dao/Achat.java=UTF-8
+encoding//src/com/service/dao/AchatService.java=UTF-8
+encoding//src/com/service/dao/AchatServiceLocator.java=UTF-8
+encoding//src/com/service/dao/AchatSoapBindingStub.java=UTF-8
+encoding//src/com/upem/models/Categorie.java=UTF-8
+encoding//src/com/upem/models/Commentaire.java=UTF-8
+encoding//src/com/upem/models/CompteUtilisateur.java=UTF-8
+encoding//src/com/upem/models/Pannier.java=UTF-8
+encoding//src/com/upem/models/Produit.java=UTF-8
+encoding//src/com/upem/models/User.java=UTF-8

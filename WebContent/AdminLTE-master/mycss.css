@@ -1,0 +1,11 @@
+.imgg	 {
+    position: relative;
+   
+    width:  18rem;
+    height: 300px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+
